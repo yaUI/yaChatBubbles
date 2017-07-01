@@ -1,7 +1,7 @@
-## Interface: 70000
+## Interface: 73000
 ## Author: Nonus - https://github.com/Nonus
 ## Title: |cffFA2384ya|rChatBubbles
 ## Version: 1.0
-## Dependencies: yaCore
+## Dependencies: yaCore, yaMedia
 
 core.lua
