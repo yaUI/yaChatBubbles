@@ -1,4 +1,6 @@
-local E, M = unpack(_G.yaCore)
+local E, M = unpack(_G.vCore)
+--------------
+
 local numChildren = -1
 
 local frame = CreateFrame('Frame')
