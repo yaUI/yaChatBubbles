@@ -1,7 +1,0 @@
-## Interface: 73000
-## Author: Nonus - https://github.com/Nonus
-## Title: |cffFA2384v|rChatBubbles
-## Version: 1.0
-## Dependencies: vCore, vMedia
-
-core.lua
